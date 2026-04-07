@@ -1,6 +1,6 @@
 # TrustAgent: Enterprise AI Underwriting Copilot
 
-**🌍 Live Web Demo:** [Insert Vercel Deployment Link Here]
+**🌍 Live Web Demo:** https://trust-agent-tau.vercel.app/
 
 TrustAgent is an autonomous decision-making engine designed to augment risk and underwriting operations in Buy Now, Pay Later (BNPL) ecosystems. It implements a multi-layer evaluation pipeline combining predictive modeling, behavioral heuristics, and Generative AI to provide real-time, explainable credit decisions.
 
